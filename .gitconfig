@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Steve Smith
+	email = steve.smith@logrhythm.com
+[credential]
+	helper = osxkeychain
